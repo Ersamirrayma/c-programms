@@ -1,0 +1,17 @@
+#include<iostream>
+#include<conio>
+
+voidmain();
+{
+clrscr();
+int  a,b,sum;
+
+
+cout<<"enter first  value";
+cin>>a;
+cout<<"enter second value";
+cin>>b;
+sum=a+b;
+cout<<"the sum of two number is"<<sum;
+getch();
+}
